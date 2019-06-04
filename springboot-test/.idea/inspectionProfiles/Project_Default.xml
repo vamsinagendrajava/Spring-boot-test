@@ -1,0 +1,39 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="AssignmentToSuperclassField" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="Convert2Diamond" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="DriverManagerGetConnection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="ExtendsUtilityClass" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="FinalizeNotProtected" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="InstanceofChain" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoreInstanceofOnLibraryClasses" value="false" />
+    </inspection_tool>
+    <inspection_tool class="LoopWithImplicitTerminationCondition" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="MethodCount" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="m_limit" value="20" />
+      <option name="ignoreGettersAndSetters" value="false" />
+      <option name="ignoreOverridingMethods" value="false" />
+    </inspection_tool>
+    <inspection_tool class="ParametersPerMethod" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="m_limit" value="5" />
+    </inspection_tool>
+    <inspection_tool class="RedundantFieldInitialization" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="RedundantImplements" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoreSerializable" value="false" />
+      <option name="ignoreCloneable" value="false" />
+    </inspection_tool>
+    <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
+      <option name="processCode" value="true" />
+      <option name="processLiterals" value="true" />
+      <option name="processComments" value="true" />
+    </inspection_tool>
+    <inspection_tool class="SystemGC" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="UnnecessaryConstructor" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="UnnecessaryExplicitNumericCast" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="UnnecessaryQualifierForThis" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="UnnecessarySuperConstructor" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="UnnecessarySuperQualifier" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="UnnecessaryToStringCall" enabled="true" level="WARNING" enabled_by_default="true" />
+  </profile>
+</component>
